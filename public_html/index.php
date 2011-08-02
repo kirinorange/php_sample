@@ -1,5 +1,5 @@
 <?php
 
-echo "hello, みんな!";
+echo "hello, みんな！はっぴーだよ！";
 
 ?>
